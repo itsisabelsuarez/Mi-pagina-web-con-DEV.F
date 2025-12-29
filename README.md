@@ -14,4 +14,4 @@ Página web con una recopilación de películas y series que vi durante 2025, co
 
 ## 🌐 Publicación
 Publicado con GitHub Pages.
-ttps://itsisabelsuarez.github.io/Mi-pagina-web-con-DEV.F.io/
+https://itsisabelsuarez.github.io/Mi-pagina-web-con-DEV.F/
